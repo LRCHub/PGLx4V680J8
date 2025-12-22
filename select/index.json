@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Accendio",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-22T15:56:34.043951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Accendio",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/01_Accendio_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Accendio",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/02_Accendio_IVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Accendio",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/03_Accendio_IVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "02. IVE - Accendio",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/04_02._IVE_-_Accendio_IVE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Accendio",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/05_Accendio_IVE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Accendio",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/06_Accendio_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Accendio",
+      "artist": "아이브 (IVE)",
+      "has_synced": true,
+      "path": "select/07_Accendio_아이브_(IVE).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Accendio -Japanese version-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/08_Accendio_-Japanese_version-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Accendio",
+      "artist": "lapiz",
+      "has_synced": false,
+      "path": "select/09_Accendio_lapiz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Accendio",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Accendio_IVE.txt"
+    }
+  ]
+}
